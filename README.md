@@ -11,4 +11,5 @@ yuyuko is tooooo cute!
 
 ## ScreenShot
 
+![](https://github.com/hylwxqwq/yuyuko.zsh-theme/blob/master/ScreenShot/shell.png)
 
